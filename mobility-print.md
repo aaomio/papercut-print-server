@@ -11,7 +11,7 @@ Mobility Print is used to provide printer deployment for BYOD devices without re
 Mobility Print is installed on the print server (Matrix-PS-01).
 
 ### Step 1: Download and install
-- Download Mobility Print from [official download page](https://www.papercut.com/products/mf/mobility-print/download/server/)
+- Download Mobility Print from [Official Download Page](https://www.papercut.com/products/mf/mobility-print/download/server/)
 - Run the installer on Matrix-PS-01
 - Complete installation using default settings unless specified otherwise
 

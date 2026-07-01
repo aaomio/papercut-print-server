@@ -15,7 +15,7 @@ PaperCut NG is installed on the print server (Matrix-PS-01).
 - Confirm DNS resolution to the domain controller is working
 
 ### Step 2: Install PaperCut NG
-- Download PaperCut NG from [official download page](https://www.papercut.com/products/ng/download/)
+- Download PaperCut NG from [Official Download Page](https://www.papercut.com/products/ng/download/)
 - Run the installer on Matrix-PS-01
 - Select **Application Server installation**
 - Complete installation using default configuration
