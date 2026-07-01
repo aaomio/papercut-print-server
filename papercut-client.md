@@ -30,7 +30,7 @@ Non-domain devices install printers using the Mobility Print setup portal.
 
 ### Access
 
-http://Matrix-PS-01:9164/setup
+http://Matrix-PS-01:9163/setup
 
 ### Steps
 
